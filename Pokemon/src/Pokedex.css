@@ -1,0 +1,18 @@
+.Pokedex{
+    text-align: center;
+}
+
+
+.Pokedex-card{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+
+.Winning{
+    color: rgba(9, 146, 50, 0.835);
+}
+.Losing{
+    color: rgba(212, 14, 14, 0.924);
+}
